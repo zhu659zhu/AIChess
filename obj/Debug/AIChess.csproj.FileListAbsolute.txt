@@ -1,0 +1,9 @@
+D:\我的文档\Documents\Visual Studio 2012\Projects\AIChess\AIChess\bin\Debug\AIChess.exe.config
+D:\我的文档\Documents\Visual Studio 2012\Projects\AIChess\AIChess\bin\Debug\AIChess.exe
+D:\我的文档\Documents\Visual Studio 2012\Projects\AIChess\AIChess\bin\Debug\AIChess.pdb
+D:\我的文档\Documents\Visual Studio 2012\Projects\AIChess\AIChess\obj\Debug\AIChess.csprojResolveAssemblyReference.cache
+D:\我的文档\Documents\Visual Studio 2012\Projects\AIChess\AIChess\obj\Debug\AIChess.Form1.resources
+D:\我的文档\Documents\Visual Studio 2012\Projects\AIChess\AIChess\obj\Debug\AIChess.Properties.Resources.resources
+D:\我的文档\Documents\Visual Studio 2012\Projects\AIChess\AIChess\obj\Debug\AIChess.csproj.GenerateResource.Cache
+D:\我的文档\Documents\Visual Studio 2012\Projects\AIChess\AIChess\obj\Debug\AIChess.exe
+D:\我的文档\Documents\Visual Studio 2012\Projects\AIChess\AIChess\obj\Debug\AIChess.pdb
